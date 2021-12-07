@@ -1,4 +1,4 @@
-# Projeto-Final-Xadrez
+# Chess Masters
 Desenvolvido por: João Pedro C. Zanholo e Lucas Vieira Brito
 
 Projeto realizado na disciplina de Paradigmas de Programação B
